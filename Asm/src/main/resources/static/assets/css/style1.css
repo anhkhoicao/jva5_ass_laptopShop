@@ -1,0 +1,45 @@
+* {
+	text-decoration: none !important;
+}
+
+body {
+	background-color: #ffffff;
+}
+
+/* begin css header */
+.info-bar * {
+	color: #a2a2a2 !important;
+}
+
+.ibar-title {
+	margin: 0 4px 0 8px;
+	font-weight: 500;
+}
+
+.navbar-brand {
+	font-size: 28px;
+	font-weight: 700;
+}
+
+nav .nav-link {
+	color: #252525 !important;
+	font-size: 18px;
+}
+
+nav .nav-link.active {
+	font-weight: 600;
+	border-bottom: 2px solid #252525;
+}
+
+.navbar {
+	box-shadow: 0px 5px 8px #a2a2a2;
+}
+
+.modal.show {
+	display: flex !important;
+}
+
+.modal-dialog {
+	width: 500px !important;
+}
+/* end css header */
